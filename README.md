@@ -94,16 +94,12 @@ Perfect for:
 
 ## 🖼️ Screenshots
 
-> 📝 *Add screenshots here to showcase your beautiful UI*
+<img width="1108" height="846" alt="Screenshot 2026-01-23 at 7 39 31 PM" src="https://github.com/user-attachments/assets/4e471db3-4e82-456d-91e7-574f7b17c6dc" />
+<img width="512" height="703" alt="Screenshot 2026-01-22 at 12 38 09 PM" src="https://github.com/user-attachments/assets/540ec647-05af-44f3-bfb1-452f5d57cc54" />
+<img width="539" height="701" alt="Screenshot 2026-01-22 at 12 40 17 PM" src="https://github.com/user-attachments/assets/2e222ce4-405f-462f-bd10-8843717a36f0" />
+<img width="532" height="706" alt="Screenshot 2026-01-22 at 12 39 19 PM" src="https://github.com/user-attachments/assets/5d304662-4eee-4966-b0bf-b8c41ded3c75" />
 
-```
-/screenshots
-  ├── main-window.png
-  ├── explain-panel.png
-  ├── voice-input.png
-  ├── settings.png
-  └── context-vault.png
-```
+
 
 ---
 
@@ -540,14 +536,6 @@ of this software and associated documentation files...
 - **Discussions**: [GitHub Discussions](https://github.com/manchikantithanush-netizen/ClarifyThis/discussions)
 - **Email**: support@clarifythis.app
 - **Website**: [clarifythisapp.netlify.app](https://clarifythisapp.netlify.app)
-
----
-
-## ⭐ Star History
-
-If you find ClarifyThis useful, please consider starring the repository!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=manchikantithanush-netizen/ClarifyThis&type=Date)](https://star-history.com/#manchikantithanush-netizen/ClarifyThis&Date)
 
 ---
 
